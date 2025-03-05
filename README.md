@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-I am a passionate backend developer, driven by a relentless enthusiasm for creating innovative applications and websites. My journey in the world of technology is a perpetual quest for knowledge, as I'm always on the lookout to learn and master new technologies, pushing the boundaries of what's possible in the digital realm. With a commitment to excellence and a penchant for crafting cutting-edge solutions, I'm dedicated to shaping the digital landscape and making a lasting impact through my work.
+<br>
+### I am a backend and frontend developer.
 <!--
 **Strykeros/Strykeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
