@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br/>
+---
 ### I am a backend and frontend developer.
 <!--
 **Strykeros/Strykeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
