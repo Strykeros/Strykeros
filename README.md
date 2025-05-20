@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech that I use:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,py,js,ts,html,css,bootstrap,react,php,laravel,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,py,js,ts,html,css,bootstrap,react,php,laravel,postgres,sqlite)](https://skillicons.dev)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Strykeros&theme=dark)](https://git.io/streak-stats)
