@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 #### Databases:
 [![Databases](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
+#### Tools & Testing:
+[![Tools & Testing](https://skillicons.dev/icons?i=git,cypress)](https://skillicons.dev)
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Strykeros&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strykeros&hide_rank=true&show_icons=true&theme=transparent)
