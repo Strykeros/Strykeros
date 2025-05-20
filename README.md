@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech that I use:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,py,js,ts,html,css,bootstrap,react,php,laravel,postgres,sqlite)](https://skillicons.dev)
+#### 📝 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,java,py,js,ts,php)](https://skillicons.dev)
+
+#### 🎨 Front-End
+[![Front-End](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
+
+#### ⚙️ Back-End / Frameworks
+[![Back-End](https://skillicons.dev/icons?i=flask,dotnet,laravel)](https://skillicons.dev)
+
+#### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Strykeros&theme=dark)](https://git.io/streak-stats)
