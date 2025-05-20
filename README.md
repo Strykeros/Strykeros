@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech that I use:
 
-#### 📝 Programming Languages
+#### Programming Languages:
 [![Languages](https://skillicons.dev/icons?i=cs,cpp,java,py,js,ts,php)](https://skillicons.dev)
 
-#### 🎨 Front-End
+#### Front-End:
 [![Front-End](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
 
-#### ⚙️ Back-End / Frameworks
-[![Back-End](https://skillicons.dev/icons?i=flask,dotnet,laravel)](https://skillicons.dev)
+#### Frameworks:
+[![Back-End](https://skillicons.dev/icons?i=flask,dotnet,laravel,qt)](https://skillicons.dev)
 
-#### 🗄️ Databases
+#### Databases:
 [![Databases](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
 
