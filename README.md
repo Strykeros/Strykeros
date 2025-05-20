@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Databases](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
 #### Tools & Testing:
-[![Tools & Testing](https://skillicons.dev/icons?i=git,cypress)](https://skillicons.dev)
+[![Tools & Testing](https://skillicons.dev/icons?i=nodejs,git,cypress)](https://skillicons.dev)
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Strykeros&theme=dark)](https://git.io/streak-stats)
