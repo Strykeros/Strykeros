@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Languages](https://skillicons.dev/icons?i=cs,cpp,java,py,js,ts,php)](https://skillicons.dev)
 
 #### Front-End:
-[![Front-End](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
+[![Front-End](https://skillicons.dev/icons?i=html,css,bootstrap,react,vue)](https://skillicons.dev)
 
 #### Frameworks:
 [![Back-End](https://skillicons.dev/icons?i=flask,dotnet,laravel,qt)](https://skillicons.dev)
