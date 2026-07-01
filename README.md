@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Back-End](https://skillicons.dev/icons?i=flask,dotnet,laravel,qt)](https://skillicons.dev)
 
 #### Databases:
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 
 #### Tools & Testing:
 [![Tools & Testing](https://skillicons.dev/icons?i=nodejs,git,cypress)](https://skillicons.dev)
