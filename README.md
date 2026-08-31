@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Front-End](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue)](https://skillicons.dev)
 
 #### Frameworks:
-[![Back-End](https://skillicons.dev/icons?i=flask,dotnet,laravel,qt)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=django,flask,dotnet,laravel,qt)](https://skillicons.dev)
 
 #### Databases:
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
