@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 [![Tools & Testing](https://skillicons.dev/icons?i=nodejs,git,cypress)](https://skillicons.dev)
 
 ### :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Strykeros&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Strykeros&hide_rank=true&show_icons=true&theme=transparent)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strykeros&hide_rank=true&show_icons=true&theme=transparent)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strykeros&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
